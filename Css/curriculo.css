@@ -1,0 +1,19 @@
+body  {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #F2fffc;
+    font-size:120%;
+}
+
+h1{
+    text-align: left;
+    background-color: unset;
+
+    }
+
+    h1,h2{
+        font-family: "Arial, sans-serif";
+    }
+
+    p{
+        text-align: justify;
+    }

@@ -1,0 +1,14 @@
+body  {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    font-size:120%;
+}
+
+h1{
+    display: block;
+    margin: 100px;
+    text-align: center;
+    font-family:sans-serif ;
+    background-color:brown;
+    }
+   
