@@ -121,4 +121,16 @@ hr {
 
 .body {
     background-color: #3C1D3D;
+    color: snow;
+}
+
+.curriculo>p,
+h2 {
+    padding: 2px 20px;
+    width: 300px;
+}
+
+.curriculo section>* {
+    padding: 2px 20px;
+    width: 300px;
 }
